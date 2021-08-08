@@ -1,16 +1,16 @@
 # Site settings
-title: Abhilash Blog
+title: Rishab Blog
 header-img: img/home-bg.jpg
-email: i@abhilashgoyal.com
+email: mail@iamrishabgoyal.com
 copyright_name: Meanwhile no copyright
-description: "This is Abhlash Goyal personal Blog. I am passionately curious about SDN/NFV and other network technology. I belong to Uttrakhand. You can reach to me for any help 
-                relating to Networking or travelling ..."
+description: "This is Rishab Goyal personal Blog. I am passionately curious about Saleforce and Industry CRM technologies. I belong to Uttrakhand. You can reach to me for any help 
+                relating to development or travelling ..."
 baseurl: ""
-url: "http://abhilashgoyal.com"
-twitter_username: abhilashgoyal4
-github_username:  abhilashgoyal
-facebook_username:  goyalabhilash
-email_username: abhilashgoyal4@gmail.com
+url: "http://iamrishabgoyal.com"
+twitter_username: iamrishabgoyal
+github_username:  iamrishabgoyal
+facebook_username:  iamrishabgoyal
+email_username: mail@iamrishabgoyal.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
